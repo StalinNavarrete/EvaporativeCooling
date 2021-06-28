@@ -3,7 +3,7 @@ Equipo de enfriamiento evaporativo
 
 Contenido:
 1. InstaladorEvaporativeCooling.rar - INSTALADOR
-2. CodigoFuenteEvaporativeCooling.rar - CÓDIGO FUENTE DEL SOFTWARE
+2. CodigoFuenteEvaporativeCooling.txt - LINK AL CÓDIGO FUENTE
 3. ControlPID.ino - CÓDIGO TARJETA ARDUINO MEGA
 4. ControlDCMOTORS.ino - CÓDIGO TARJETA ARDUINO NANO
 
